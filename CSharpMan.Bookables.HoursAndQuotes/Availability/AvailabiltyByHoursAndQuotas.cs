@@ -15,6 +15,6 @@ namespace CSharpMan.Bookables.HoursAndQuotes.Availability
             throw new NotImplementedException();
         }
 
-        public IEnumerable<HourAndQuotaByDay> 
+        //public IEnumerable<HourAndQuotaByDay> 
     }
 }

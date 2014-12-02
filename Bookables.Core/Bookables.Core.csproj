@@ -44,8 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Availability\AvailabilityTimeBehaviourTypes.cs" />
     <Compile Include="Availability\IAvailabilityChecker.cs" />
-    <Compile Include="Availability\IAvailabilityRepository.cs" />
+    <Compile Include="Availability\IAvailabilityReadRepository.cs" />
     <Compile Include="Bookings\IBookableItem.cs" />
     <Compile Include="Bookings\IBookableItemIdentifier.cs" />
     <Compile Include="Bookings\IBooker.cs" />
